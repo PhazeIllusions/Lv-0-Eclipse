@@ -1,0 +1,9 @@
+import javax.swing.JOptionPane;
+
+public class Mad_Libs
+{
+	public static void main(String[] args) {
+		JOptionPane.showInputDialog("ENTER AN ADJECTIVE BEN");
+	}
+}
+
