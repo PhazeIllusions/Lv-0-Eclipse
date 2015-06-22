@@ -1,0 +1,11 @@
+import javax.swing.JOptionPane;
+
+
+public class Lv_0_Eclipse {
+public static void main(String[] args) {
+	int Nick=10;
+	JOptionPane.showMessageDialog( null, " Nick is " +Nick+ ".");
+}
+		
+	}
+

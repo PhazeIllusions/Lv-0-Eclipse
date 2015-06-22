@@ -1,0 +1,21 @@
+import java.util.Random;
+
+import javax.swing.JOptionPane;
+
+
+public class Lv_0_Eclipse {
+public static void main(String[] args) {
+
+	int rand=new Random().nextInt(100000000);
+JOptionPane.showMessageDialog(null,rand);
+if (rand<500000){
+	JOptionPane.showMessageDialog(null,"Hi there." ); 
+}
+else{
+	JOptionPane.showMessageDialog(null, "Goodbye");
+}     
+}
+}
+
+
+

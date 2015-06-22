@@ -1,0 +1,21 @@
+import javax.swing.JOptionPane;
+
+
+public class Lv_0_Eclipse {
+public static void main(String[] args) {
+	int Nick=10;
+	//JOptionPane.showMessageDialog( null, " Nick is " +Nick+ ".");
+	System.out.println(Nick);
+	if (Nick==164)
+	{
+		for (int i = 0; i < 10000; i++) {
+			
+		JOptionPane.showMessageDialog(null, "Hello there Nick that is 10");
+			
+		}
+		
+	}
+}
+		
+	}
+
