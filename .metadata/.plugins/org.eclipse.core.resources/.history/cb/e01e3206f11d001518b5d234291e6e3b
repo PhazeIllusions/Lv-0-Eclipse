@@ -1,0 +1,33 @@
+public class ForLoop {	
+ public static void main(String[]args) { 
+	for(int i=7;i<=777;i+=7) {
+		System.out.println(i);
+		
+	}
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	  
+	 
+	 
+	 
+
+	 
+ }
+}
