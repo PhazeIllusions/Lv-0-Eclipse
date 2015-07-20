@@ -6,7 +6,7 @@ public class mustache {
 
 String answer= JOptionPane.showInputDialog("Do You Know How to Code?");
 		// 2. If they say "yes", tell them they will rule the world.
-if(answer.equalsIgnoreCase("yes")){
+if(answer.equals("yes")){
 	JOptionPane.showMessageDialog(null,"You will rule the world.");
 }
 

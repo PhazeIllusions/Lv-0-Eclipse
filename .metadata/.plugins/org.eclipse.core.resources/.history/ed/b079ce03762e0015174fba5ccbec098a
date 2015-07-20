@@ -1,0 +1,17 @@
+// Copyright Wintriss Technical Schools 2013
+import javax.swing.JOptionPane;
+
+public class Airline {
+public static void main(String[] args) {
+	String numb1 = JOptionPane.showInputDialog("Please enter a number.");
+	int fnumb = Integer.parseInt(numb1);
+	String numb2 = JOptionPane.showInputDialog("Please enter a number.");
+	int snumb = Integer.parseInt(numb2);
+	String numb3 = JOptionPane.showInputDialog("Please enter a number.");
+	int tnumb = Integer.parseInt(numb3);
+	if (fnumb > snumb){
+	JOptionPane.showMessageDialog(null, fnumb + "" + snumb);
+	}	
+	
+}
+}

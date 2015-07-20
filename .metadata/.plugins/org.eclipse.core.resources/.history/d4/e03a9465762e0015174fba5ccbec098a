@@ -1,0 +1,16 @@
+import org.teachingextensions.logo.Tortoise;
+
+
+public class TurtleTesting {
+public static void main(String[] args) {
+	for (int i = 0; i < 100000; i++) {
+		Tortoise.setSpeed(10);
+		Tortoise.move(61);
+		Tortoise.turn(14);
+		Tortoise.move(13);
+		Tortoise.turn(59);
+		Tortoise.move(29);
+		
+	}
+}
+}
