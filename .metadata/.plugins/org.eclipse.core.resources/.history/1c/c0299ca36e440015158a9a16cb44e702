@@ -1,0 +1,9 @@
+public class Methods
+{
+	public static void main(String[] arg){
+for(int i=1; 1<=100; i++){
+	System.out.println(i);
+}
+
+	}
+}

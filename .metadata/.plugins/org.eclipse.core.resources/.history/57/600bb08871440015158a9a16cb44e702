@@ -1,0 +1,14 @@
+public class Methods {
+	public static void main(String[] arg) {
+
+		numbers(10, 1);
+
+	}
+
+	static void numbers(int start, int end) {
+		for (int i = start; i <= end; i++) {
+
+			System.out.println(i);
+		}
+	}
+}

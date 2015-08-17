@@ -1,0 +1,8 @@
+public class Methods
+{
+	public static void main(String[] arg){
+import javax.swing.JOptionPane;
+
+
+	}
+}

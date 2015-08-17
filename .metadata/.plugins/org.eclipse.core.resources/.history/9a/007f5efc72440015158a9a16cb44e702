@@ -1,0 +1,18 @@
+public class Methods {
+	public static void main(String[] arg) {
+
+		numbers(1000, 100);
+
+	}
+
+	static void numbers(int start, int end) {
+		if(start<end){
+			
+		
+		for (int i = end; i <= start; i++) {
+			System.out.println(i);
+		}
+		}
+			
+		}
+	}
